@@ -1,0 +1,6 @@
+# Ignore numpy files
+*.npy
+*.npz
+
+# Ignore virtualenv's
+venv/
